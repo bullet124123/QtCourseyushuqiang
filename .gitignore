@@ -1,0 +1,23 @@
+# Qt编译生成的构建目录
+build-*/
+*/build*/
+
+# Qt自动生成文件
+*.pro.user
+*.pro.user.*
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+
+# 二进制目标文件
+*.o
+*.obj
+*.exe
+*.dll
+*.a
+*.lib
+
+# 临时文件
+*.log
+*.tmp
+*.bak
